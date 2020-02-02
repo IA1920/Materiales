@@ -6,7 +6,7 @@ Materiales de la asignatura Inteligencia Artificial de la Universidad de La Rioj
 ## Teoría
 
 - [Introducción a la Inteligencia Artificial](https://drive.google.com/open?id=1bCClW3P6nwDlSgpe-uL33Vbsr_NweRY-ZrSkDBXYv-s).
-- [Introducción a Python](notebooks/Tema 2 Introducción a Python.ipynb).
+- [Introducción a Python](notebooks/Tema2.ipynb).
 - Aprendizaje automático.
 - Visión por computador.
 - Procesamiento de lenguaje natural.
